@@ -22,8 +22,8 @@
             $searchQuery = htmlspecialchars($_GET['query']);
 
             $servername = "localhost";
-            $username = "camil";
-            $password = "camilgrace";
+            $username = "gian";
+            $password = "securedpassword";
             $dbname = "search_db";
 
             $conn = new mysqli($servername, $username, $password, $dbname);
