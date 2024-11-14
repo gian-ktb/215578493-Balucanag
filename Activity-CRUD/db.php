@@ -1,6 +1,6 @@
 <?php
     $servername="localhost:3306";
-    $username= "root";
+    $username= "gian";
     $password= "securedpassword";
     $dbname= "student_list";
 
